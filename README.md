@@ -9,16 +9,6 @@ Creation of bounding box around NSFW part of an image or a video. This is an ext
 
 --------------------------------------------------------------------------------------
 
-# Use of assisting software:
-
-![215354959-9d7af122-c357-490f-9de5-5a4816bfb015](https://github.com/aarda55/yolov5_nsfw_implementation/assets/79632956/7c67b144-b064-4cb7-82df-19040a2b4060)
-
-![tensorflowkeras](https://github.com/aarda55/yolov5_nsfw_implementation/assets/79632956/8d20ebb2-69b7-4268-8b98-f48fb8057f7f)
-
-![3981ea80-a62f-11e9-9815-cd3293dbdd22](https://github.com/aarda55/yolov5_nsfw_implementation/assets/79632956/eb85a7ea-5dda-4361-8043-4c602f92a2bd)
-
---------------------------------------------------------------------------------------
-
 # End of progress:
 
 yolo implementation can with extreme high precision draw bounding boxes in validation images and videos.
